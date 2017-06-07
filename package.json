@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gpio-button": "^0.2.0",
     "socket.io-client": "^2.0.2"
   },
   "directories": {
